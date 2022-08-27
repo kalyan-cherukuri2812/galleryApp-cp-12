@@ -1,0 +1,9 @@
+.list {
+  list-style-type: none;
+  margin: 10px;
+  opacity: 0.5;
+}
+
+.active {
+  opacity: 1;
+}

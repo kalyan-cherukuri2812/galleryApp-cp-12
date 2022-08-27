@@ -1,0 +1,17 @@
+.bg-container {
+  height: 100vh;
+  background-size: cover;
+  padding: 40px;
+  padding-top: 60px;
+}
+
+.g-img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.ulist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space;
+}
